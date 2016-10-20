@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/azul"
+            android:title="Fragment Azul"
+            android:icon="@drawable/ic_menu_send"/>
+        <item
+            android:id="@+id/rojo"
+            android:title="Fragment Rojo"
+            android:icon="@drawable/ic_menu_send"/>
+        <item
+            android:id="@+id/verde"
+            android:title="Fragment Verde"
+            android:icon="@drawable/ic_menu_send"/>
+        <item
+            android:id="@+id/amarillo"
+            android:title="Fragment Amarillo"
+            android:icon="@drawable/ic_menu_send"/>
+        <item
+            android:id="@+id/negro"
+            android:title="Fragment Negro"
+            android:icon="@drawable/ic_menu_send"/>
+    </group>
+</menu>
